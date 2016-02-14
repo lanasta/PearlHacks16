@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=Fira+Sans:300');
+/*import url('http://fonts.googleapis.com/css?family=Fira+Sans:300');*/
 
 
 /* Little Miss Priss font import */
@@ -10,6 +10,13 @@
          url('littlemisspriss-webfont.woff') format('woff'),
          url('littlemisspriss-webfont.ttf') format('truetype'),
          url('littlemisspriss-webfont.svg#littlemissprissmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('fira-sans.ultralight.ttf');
     font-weight: normal;
     font-style: normal;
 }
