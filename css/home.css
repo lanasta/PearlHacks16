@@ -70,6 +70,18 @@ header.full-height > .jumbotron {
   cursor: pointer;
 }
 
+#pearlHacks a{
+  text-decoration: none;
+  color: inherit;
+}
+
+#pearlHacks a:hover{
+  text-decoration: none;
+  text-shadow: 3px 3px 12px #F2BB60;
+  color: inherit;
+  font-weight: bold;
+}
+
 #ariel img{
   max-width: 400px;
   max-height: 420px;

@@ -7,6 +7,7 @@ li, .navbar-brand{
 	 font-family: 'LMP';
 	 font-size: 28px;
  }
+
 nav, p, h1, h2, h3, h4, h5, span, div {
   font-family: 'Open Sans';
 }
@@ -26,10 +27,17 @@ body .jumbotron {
   color: white;
 }
 
-.navbar .navbar-collapse ul li a:hover{
-	font-size: 110%;
-}
 
+.navbar .navbar-collapse ul li a:hover, .navbar .navbar-collapse ul li a:active {
+	text-decoration: none;
+  text-shadow: 3px 3px 12px #F2BB60;
+  font-size:105%;
+  font-weight:600;
+  color: inherit;
+    /*border-bottom: 2px solid;
+    border-color: inherit;
+	color: inherit;*/
+}
 .row {
   padding-left: 8px;
   padding-right: 8px;
