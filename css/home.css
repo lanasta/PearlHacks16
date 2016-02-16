@@ -88,7 +88,7 @@ header.full-height > .jumbotron {
   position: absolute;;
   z-index: 4;
   font-family: 'LMP';
-  top: 22%;
+  top: 24%;
   width: 100%;
   text-align: center;
   cursor: pointer;
@@ -107,12 +107,12 @@ header.full-height > .jumbotron {
 }
 
 #ariel img{
-  max-width: 330px;
-  max-height: 350px;
+  max-width: 300px;
+  max-height: 320px;
   height:auto;
   width: 80%;
   position: absolute;
-  top: 26%; bottom:0; left: 0; right:0;
+  top: 29%; bottom:0; left: 0; right:0;
   margin: auto;
   z-index: 5;
   -webkit-animation: pulsate 2s ease-out;
