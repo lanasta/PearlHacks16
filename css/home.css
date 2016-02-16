@@ -72,11 +72,11 @@ header.full-height > .jumbotron {
 
 #pearlHacks h2{
   letter-spacing: 4px;
-  font-size: 4em;
+  font-size: 3.8em;
   position: absolute;;
   z-index: 4;
   font-family: 'LMP';
-  top: 12%;
+  top: 13%;
   width: 100%;
   text-align: center;
   cursor: pointer;
@@ -84,11 +84,11 @@ header.full-height > .jumbotron {
 
 #pearlHacks h3{
   letter-spacing: 2px;
-  font-size: 1.4em;
+  font-size: 1.3em;
   position: absolute;;
   z-index: 4;
   font-family: 'LMP';
-  top: 23%;
+  top: 24%;
   width: 100%;
   text-align: center;
   cursor: pointer;
@@ -110,7 +110,7 @@ header.full-height > .jumbotron {
   /*max-width: 330px;
   max-height: 350px;*/
   height: auto;
-  max-width: 40%;
+  max-width: 42%;
   width: 25%;
   position: absolute;
   top: 24%; bottom:0; left: 0; right:0;
